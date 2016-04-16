@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jonathanNicolas/addition-jonathan/issues"
   },
-  "homepage": "https://github.com/jonathanNicolas/addition-jonathan#readme"
+  "homepage": "https://github.com/jonathanNicolas/addition-jonathan#readme",
+  "dependencies": {
+    "tap": "^5.7.1"
+  }
 }
