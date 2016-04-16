@@ -1,0 +1,24 @@
+{
+  "name": "addition-jonathan",
+  "version": "0.0.1",
+  "description": "foo bar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanNicolas/addition-jonathan.git"
+  },
+  "keywords": [
+    "addition",
+    "trent",
+    "oswald"
+  ],
+  "author": "Jonathan Nicolas (@jonathanNicolas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanNicolas/addition-jonathan/issues"
+  },
+  "homepage": "https://github.com/jonathanNicolas/addition-jonathan#readme"
+}
